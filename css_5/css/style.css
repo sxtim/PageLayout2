@@ -17,3 +17,11 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
 
+.content {
+
+     border: 3px solid red;
+     width: 1190px;
+     height: 1064px;
+     background-color: #80b7b3;
+     opacity: 0.24;
+ }
