@@ -146,7 +146,7 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 20px;
     margin:  0 0 15px 0;
-    background: url("checkIcon.png") left no-repeat;
+    background: url("css/checkIcon.png") left no-repeat;
     padding: 0 0 0 35px;
 }
 .content-bottom-info-list li:last-child{
