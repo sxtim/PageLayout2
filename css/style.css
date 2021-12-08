@@ -74,7 +74,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /*--------------------*/
 body {
-    background: #e8e8e8 url("/img/ellipse_1_copy_4.png") 50% 130px no-repeat;
+    background: url("/img/ellipse_1_copy_4.png")  130px no-repeat;
+    width: 50%;
 }
 
 .content {
